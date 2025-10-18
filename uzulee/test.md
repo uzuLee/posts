@@ -18,7 +18,7 @@
 <h3 align="center"><b> Life Moto 🪧 </b></h3>
 <div align="center">
   
-  [(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CC36&width=500&lines=Living+the+youngest+day+of+life+to+come)](https://git.io/typing-svg)
+  ![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CC36&width=500&lines=Living+the+youngest+day+of+life+to+come)
   
 </div>
 
