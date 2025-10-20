@@ -1,4 +1,6 @@
-tags: #React, #JavaScript, #Frontend, #Hooks]
+  ---
+  tags: [JavaScript, React, Tutorial]
+  ---
 
 
 
