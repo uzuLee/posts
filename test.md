@@ -1,5 +1,7 @@
   ---
-  tags: [#JavaScript, #React, #Tutorial]
+  #JavaScript
+  #React
+  #Tutorial
   ---
 
 
