@@ -1,7 +1,5 @@
   ---
-  #JavaScript
-  #React
-  #Tutorial
+tags: [Alpha, Beta, Chhh]
   ---
 
 
