@@ -5,4 +5,4 @@
 [[link]] 기능도 제대로 이용해보자구요!
 폴더 링크도 확인해야하니 [[template]] 파일도 링크 해볼까요?
 
-겸사겸사 [["./folder test.md"]] 도 테스트 해볼게요.
+겸사겸사 [[test folder/folder test.md]] 도 테스트 해볼게요.
